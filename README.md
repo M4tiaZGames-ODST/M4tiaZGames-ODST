@@ -1,5 +1,15 @@
 ![MatYaZ Banner](assets/banner.png)
 
+<div align="center">
+
+# MatYaZ
+
+### Linux Enthusiast | Software Developer
+
+Building software and exploring Linux and open-source technologies.
+
+</div>
+
 ---
 
 ## About Me
@@ -10,18 +20,18 @@ I am a software developer with a strong interest in Linux and open-source techno
 
 ## Linux Distributions
 
-| Distribution | Role |
-| :--- | :--- |
-| ![Fedora](https://cdn.simpleicons.org/fedora) **Fedora** | Main operating system |
-| ![Pop!_OS](https://cdn.simpleicons.org/popos) **Pop!_OS** | Secondary Linux environment |
-| ![Ubuntu](https://cdn.simpleicons.org/ubuntu) **Ubuntu** | Development and testing environment |
-| ![NixOS](https://cdn.simpleicons.org/nixos) **NixOS** | Distribution of interest |
-| ![EndeavourOS](https://cdn.simpleicons.org/endeavouros) **EndeavourOS** | Distribution of interest |
-| ![Debian](https://cdn.simpleicons.org/debian) **Debian** | Distribution of interest |
+| | Distribution | Role |
+| :---: | :--- | :--- |
+| <img src="https://cdn.simpleicons.org/fedora" width="32" height="32" alt="Fedora" /> | **Fedora** | Main distribution |
+| <img src="https://cdn.simpleicons.org/popos" width="24" height="24" alt="Pop!_OS" /> | Pop!_OS | Secondary Linux environment |
+| <img src="https://cdn.simpleicons.org/ubuntu" width="24" height="24" alt="Ubuntu" /> | Ubuntu | Development environment |
+| <img src="https://cdn.simpleicons.org/nixos" width="24" height="24" alt="NixOS" /> | NixOS | Distribution of interest |
+| <img src="https://cdn.simpleicons.org/endeavouros" width="24" height="24" alt="EndeavourOS" /> | EndeavourOS | Distribution of interest |
+| <img src="https://cdn.simpleicons.org/debian" width="24" height="24" alt="Debian" /> | Debian | Distribution of interest |
 
 ---
 
-## Tech Stack
+## Technologies
 
 ### Programming Languages
 
@@ -43,27 +53,33 @@ I am a software developer with a strong interest in Linux and open-source techno
 
 ### Virgil
 
-Personal assistant developed in C++. Console-based interface, with code organized into header and source files. A learning and personal development project.
+> Personal assistant developed in C++.
 
-**Tech:** C++
+- Console-based interface.
+- Code organized into header and source files.
+- Personal project in continuous evolution.
 
+**Tech:** C++  
 **Repository:** TODO — add repository URL
 
 ### gastos-app
 
-Expense management application. Frontend built with React and TypeScript; backend developed with Python.
+> Personal expense management application.
 
-**Tech:** React, TypeScript, Python
+- Frontend built with React and TypeScript.
+- Backend developed with Python.
+- Focused on expense tracking and organization.
 
+**Tech:** React · TypeScript · Python  
 **Repository:** TODO — add repository URL
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=M4tiaZGames-ODST&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=M4tiaZGames-ODST&show_icons=true&hide_border=false&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E6EDF3&border_color=1E1B35)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=M4tiaZGames-ODST&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=M4tiaZGames-ODST&layout=compact&hide_border=false&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3&border_color=1E1B35)
 
 ---
 
