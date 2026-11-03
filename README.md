@@ -1,12 +1,4 @@
-<div align="center">
-
-# MatYaZ
-
-### Linux Enthusiast | Software Developer
-
-Building software and exploring Linux and open-source technologies.
-
-</div>
+![MatYaZ Banner](assets/banner.png)
 
 ---
 
